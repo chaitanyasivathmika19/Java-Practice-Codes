@@ -24,8 +24,16 @@ A collection of core Java programs covering fundamental and advanced concepts in
    ```bash
    javac FileName.java
 4. Run the program:
-```bash
+   ```bash
    java FileName
 
+## 📘 Requirements
+- Java JDK 8 or above  
+- Any Java IDE (Eclipse, IntelliJ, VS Code) or command line  
+
+---
+
+## 🚀 Contribution
+Contributions are welcome! Feel free to fork this repository, raise issues, or submit pull requests.
 
    
