@@ -27,6 +27,8 @@ A collection of core Java programs covering fundamental and advanced concepts in
    ```bash
    java FileName
 
+---
+
 ## 📘 Requirements
 - Java JDK 8 or above  
 - Any Java IDE (Eclipse, IntelliJ, VS Code) or command line  
