@@ -1,8 +1,14 @@
 # ☕ Core Java Programs
 
+![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=java)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)
+
+
 A collection of core Java programs covering fundamental and advanced concepts including OOP principles, exception handling, multithreading, matrix operations, and more. This repository serves as a practice and reference for students and developers learning Java.
 
 ---
+
 
 ## 📂 Topics Covered
 - ✅ Basic Java Programs (Hello World, etc.)
