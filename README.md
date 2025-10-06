@@ -8,8 +8,6 @@
 A collection of core Java programs covering fundamental and advanced concepts including OOP principles, exception handling, multithreading, matrix operations, and more. This repository serves as a practice and reference for students and developers learning Java.
 
 ---
-
-
 ## 📂 Topics Covered
 - ✅ Basic Java Programs (Hello World, etc.)
 - ✅ Object-Oriented Concepts (Inheritance, Polymorphism, Super Keyword)
