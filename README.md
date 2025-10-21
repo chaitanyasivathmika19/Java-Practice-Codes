@@ -49,16 +49,17 @@ These codes help you understand **core Java concepts** like classes, inheritance
 
 ## ⚙️ Folder Structure
 
-Java-Practice-Codes/
-│
-├── Hello.java
-├── SuperKey.java
-├── Matrix.java
-├── Exception.java
-├── MyThread.java
-├── Main.java
-├── *.class
-└── README.md
+
+/ (root)  
+│── Hello.java              # 👋 Basic Java program (prints a message)  
+│── SuperKey.java           # 🧩 Demonstrates use of 'super' keyword in inheritance  
+│── Matrix.java             # 🧮 Performs matrix operations (addition, multiplication, etc.)  
+│── Exception.java          # ⚠️ Demonstrates exception handling (try-catch, custom exceptions)  
+│── MyThread.java           # 🔄 Implements multithreading using Thread class  
+│── Main.java               # 🚀 Driver class to execute programs  
+│── *.class                 # 🧱 Compiled Java bytecode files  
+│── README.md               # 📘 Project documentation  
+
  ---
 
 
