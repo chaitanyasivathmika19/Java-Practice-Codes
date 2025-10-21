@@ -35,6 +35,21 @@ These codes help you understand **core Java concepts** like classes, inheritance
 
 ---
 
+## 🧩 Learning Goals
+
+| Goal | Description |
+|------|--------------|
+| Understand basic syntax | Practice using main method, printing output |
+| Apply OOP concepts | Create and use classes, inheritance |
+| Handle runtime errors | Learn try-catch-finally |
+| Work with threads | Create and manage multiple threads |
+| Manipulate arrays | Perform operations on 2D matrices |
+
+---
+
+## ⚙️ Folder Structure
+
+
 
 
 ## 🛠️ How to Run
@@ -61,5 +76,28 @@ These codes help you understand **core Java concepts** like classes, inheritance
 
 ## 🚀 Contribution
 Contributions are welcome! Feel free to fork this repository, raise issues, or submit pull requests.
+
+
+---
+
+## 📚 Useful Java References
+
+- [Official Java Documentation (Oracle)](https://docs.oracle.com/javase/8/docs/)
+- [GeeksforGeeks Java Tutorials](https://www.geeksforgeeks.org/java/)
+- [W3Schools Java Guide](https://www.w3schools.com/java/)
+- [JavaTPoint – Core Java](https://www.javatpoint.com/java-tutorial)
+
+---
+
+## ✨ Author
+
+**👩‍💻 [chaitanyasivathmika19](https://github.com/chaitanyasivathmika19)**  
+Final-year B.Tech student passionate about learning **Java, Cloud Computing, and Front-end Development** ☁️💻
+
+---
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
 
    
