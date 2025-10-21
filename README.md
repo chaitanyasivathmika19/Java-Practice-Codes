@@ -49,7 +49,17 @@ These codes help you understand **core Java concepts** like classes, inheritance
 
 ## ⚙️ Folder Structure
 
-
+Java-Practice-Codes/
+│
+├── Hello.java
+├── SuperKey.java
+├── Matrix.java
+├── Exception.java
+├── MyThread.java
+├── Main.java
+├── *.class
+└── README.md
+ ---
 
 
 ## 🛠️ How to Run
