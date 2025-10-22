@@ -66,7 +66,7 @@ These codes help you understand **core Java concepts** like classes, inheritance
 ## 🛠️ How to Run
 1. Clone the repository:
    ```bash
-      git clone https://github.com/chaitanyasivathmika19/Java-Practice-Codes.git
+   git clone https://github.com/chaitanyasivathmika19/Java-Practice-Codes.git
 2. Navigate into the directory:
     ```bash
     cd Java-Practice-Codes
@@ -92,7 +92,6 @@ Contributions are welcome! Feel free to fork this repository, raise issues, or s
 ---
 
 ## 📚 Useful Java References
-
 - [Official Java Documentation (Oracle)](https://docs.oracle.com/javase/8/docs/)
 - [GeeksforGeeks Java Tutorials](https://www.geeksforgeeks.org/java/)
 - [W3Schools Java Guide](https://www.w3schools.com/java/)
@@ -101,14 +100,12 @@ Contributions are welcome! Feel free to fork this repository, raise issues, or s
 ---
 
 ## ✨ Author
-
 **👩‍💻 [chaitanyasivathmika19](https://github.com/chaitanyasivathmika19)**  
 Final-year B.Tech student passionate about learning **Java, Cloud Computing, and Front-end Development** ☁️💻
 
 ---
 
 ## 📄 License
-
 This project is open source and available under the **MIT License**.
 
    
