@@ -69,7 +69,7 @@ These codes help you understand **core Java concepts** like classes, inheritance
       git clone https://github.com/chaitanyasivathmika19/Java-Practice-Codes.git
 2. Navigate into the directory:
     ```bash
-    cd Core-Java-Programs
+    cd Java-Practice-Codes
 3. Compile the program:
    ```bash
    javac FileName.java
