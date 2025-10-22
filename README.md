@@ -66,7 +66,7 @@ These codes help you understand **core Java concepts** like classes, inheritance
 ## 🛠️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Core-Java-Programs.git
+      git clone https://github.com/chaitanyasivathmika19/Java-Practice-Codes.git
 2. Navigate into the directory:
     ```bash
     cd Core-Java-Programs
